@@ -1,0 +1,11 @@
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\bin\Debug\netcoreapp1.1\WebImageSizing.deps.json
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\bin\Debug\netcoreapp1.1\WebImageSizing.runtimeconfig.json
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\bin\Debug\netcoreapp1.1\WebImageSizing.runtimeconfig.dev.json
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\bin\Debug\netcoreapp1.1\WebImageSizing.dll
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\bin\Debug\netcoreapp1.1\WebImageSizing.pdb
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.csprojResolveAssemblyReference.cache
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.csproj.CoreCompileInputs.cache
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.AssemblyInfoInputs.cache
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.AssemblyInfo.cs
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.dll
+D:\jbryant64\Documents\Visual Studio\WebImageSizing\obj\Debug\netcoreapp1.1\WebImageSizing.pdb
